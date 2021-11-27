@@ -1,0 +1,21 @@
+header{
+    height: 4em;
+    display: flex;
+    align-items: center;
+    background: rgb(233, 228, 228);
+    box-shadow: 5px 5px 10px rgb(221, 215, 215);
+    margin-bottom: 2em;
+}
+header img{
+    height: inherit;
+}
+.headerUl{
+    display: flex;
+    list-style-type: none;
+    height: inherit;
+}
+.headerUl li{
+    margin: 1em;
+    font-weight: bold;
+    font-size: 1.5em;
+}
