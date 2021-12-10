@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from 'react'
-// import "./Weather.css"
+
+import './Accueil.css'
 
 export const Accueil = () => {
-    return <>
-        <p>Accueil</p>
-    </>
+    return <div className="divImageBlocNote">
+        <img src="../../../plant-and-pencil-near-notebook.jpg" class="imgBlocNote" alt="image de bloc note page accueil notenow" />
+    </div>
 }

@@ -1,0 +1,11 @@
+.divImageBlocNote{
+    height: 104vh;
+    width: 100%;
+    overflow: hidden;
+    position: absolute;
+    top: -4vh;
+    z-index: 1;
+}
+.imgBlocNote{
+    width: 100%;
+}
